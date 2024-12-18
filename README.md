@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 sthapravesh12@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love photyography
+- ⚡ Fun fact: i love photography.
 
 <!---
 phoenix20601/phoenix20601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
